@@ -7,7 +7,7 @@
   <img align="left" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank" />
 </a>
 <br /><br />
-<a href=" https://www.youtube.com/@arengifoc ">View my YouTube channel
+<a href="https://www.youtube.com/@arengifoc">View my YouTube channel
   <img align="left" width="24px" src="youtube.svg" target="_blank" />
 </a>
 <br /><br />
