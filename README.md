@@ -20,7 +20,7 @@
 ### 🚀 About Me
 💻 I’m an IT Professional with experience since 2005. </br> </br>
 👨‍💼 Currently, I perform as a **DevOps Engineer** and **SRE**. </br> </br>
-👨‍🏫 I love sharing knowledge and teacher. That's why I've also performed as a **Technical Instructor**. </br></br>
+👨‍🏫 I love sharing knowledge and teaching. That's why I've also performed as a **Technical Instructor**. </br></br>
     
 <br/>
 <hr />
